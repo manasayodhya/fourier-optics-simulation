@@ -14,11 +14,10 @@ A simple Python simulation to demonstrate the fundamentals of Fourier optics and
   - output_field.png
 
 ---
-
 ## 📊 Simulation Results
 
-### 1️⃣ Input Hologram  
-![Input Hologram](fourier_before_filter.png)
+### 1️⃣ Fourier Transform (Before Filtering)  
+![Fourier Before Filter](fourier_before_filter.png)
 
 ### 2️⃣ Filter Mask  
 ![Filter Mask](filter_mask.png)
