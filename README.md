@@ -17,7 +17,7 @@ A simple Python simulation to demonstrate the fundamentals of Fourier optics and
 ## 📊 Simulation Results
 
 ### 1️⃣ Fourier Transform (Before Filtering)  
-![Fourier Before Filter](https://github.com/manasayodhya/fourier-optics-simulation/blob/main/fourier_before_filter.png?raw=true)
+![Fourier Before Filter](https://github.com/manasvyodhya/fourier-optics-simulation/blob/main/fourier_before_filter.png?raw=true)
 
 ### 2️⃣ Filter Mask  
 ![Filter Mask](filter_mask.png)
